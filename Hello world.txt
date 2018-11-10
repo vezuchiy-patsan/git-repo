@@ -2,3 +2,6 @@ print("Hello world")
 print("Hellooooooooooooo")
 print("хух")
 print("страдаю чем попал")
+int a;
+a=4*5;
+print(a);
