@@ -1,3 +1,4 @@
 print("Hello world")
 print("Hellooooooooooooo")
 print("хух")
+print("страдаю чем попал")
